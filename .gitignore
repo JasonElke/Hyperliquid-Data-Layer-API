@@ -53,3 +53,7 @@ logs/
 
 # AI Swarm Agent data (results may contain API responses)
 ai_agents/data/
+
+auto_keys/chrome_profile/
+auto_keys/credentials.json
+auto_keys/token.json
